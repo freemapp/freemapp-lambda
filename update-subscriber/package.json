@@ -1,0 +1,14 @@
+{
+  "name": "update-subscriber",
+  "version": "1.0.0",
+  "description": "api gateway proxy lambda to update a specific dynamodb subscriber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.445.0"
+  }
+}

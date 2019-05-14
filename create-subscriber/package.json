@@ -1,0 +1,15 @@
+{
+  "name": "create-subscriber",
+  "version": "1.0.0",
+  "description": "api gateway proxy lambda to create a subscriber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.11",
+    "aws-sdk": "^2.446.0"
+  }
+}
